@@ -1,0 +1,15 @@
+C:\Users\Nefi_\Documents\GitHub\-C-Prep-2\bin\Debug\net7.0\-C-Prep-2.exe
+C:\Users\Nefi_\Documents\GitHub\-C-Prep-2\bin\Debug\net7.0\-C-Prep-2.deps.json
+C:\Users\Nefi_\Documents\GitHub\-C-Prep-2\bin\Debug\net7.0\-C-Prep-2.runtimeconfig.json
+C:\Users\Nefi_\Documents\GitHub\-C-Prep-2\bin\Debug\net7.0\-C-Prep-2.dll
+C:\Users\Nefi_\Documents\GitHub\-C-Prep-2\bin\Debug\net7.0\-C-Prep-2.pdb
+C:\Users\Nefi_\Documents\GitHub\-C-Prep-2\obj\Debug\net7.0\-C-Prep-2.csproj.AssemblyReference.cache
+C:\Users\Nefi_\Documents\GitHub\-C-Prep-2\obj\Debug\net7.0\-C-Prep-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nefi_\Documents\GitHub\-C-Prep-2\obj\Debug\net7.0\-C-Prep-2.AssemblyInfoInputs.cache
+C:\Users\Nefi_\Documents\GitHub\-C-Prep-2\obj\Debug\net7.0\-C-Prep-2.AssemblyInfo.cs
+C:\Users\Nefi_\Documents\GitHub\-C-Prep-2\obj\Debug\net7.0\-C-Prep-2.csproj.CoreCompileInputs.cache
+C:\Users\Nefi_\Documents\GitHub\-C-Prep-2\obj\Debug\net7.0\-C-Prep-2.dll
+C:\Users\Nefi_\Documents\GitHub\-C-Prep-2\obj\Debug\net7.0\refint\-C-Prep-2.dll
+C:\Users\Nefi_\Documents\GitHub\-C-Prep-2\obj\Debug\net7.0\-C-Prep-2.pdb
+C:\Users\Nefi_\Documents\GitHub\-C-Prep-2\obj\Debug\net7.0\-C-Prep-2.genruntimeconfig.cache
+C:\Users\Nefi_\Documents\GitHub\-C-Prep-2\obj\Debug\net7.0\ref\-C-Prep-2.dll
